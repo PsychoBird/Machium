@@ -1,5 +1,5 @@
 # Machium
- A debugger for Apple Silicon
+ A lightweight debugger developed for Apple Silicon devices that allows for the reading and writing of memory, registers, and breakpoints / watchpoints.
 
 ## Machium Features
 
@@ -40,6 +40,6 @@ For a detailed writeup on the features and inner workings of Machium, [read the 
 
 ## Machium In Action
 
-![]("https://psychobird.github.io/Machium/Images/image1.png")
-![]("https://psychobird.github.io/Machium/Images/image2.png")
-![]("https://psychobird.github.io/Machium/Images/image3.png")
+![Machium](https://psychobird.github.io/Machium/Images/image1.png)
+![Machium](https://psychobird.github.io/Machium/Images/image2.png)
+![Machium](https://psychobird.github.io/Machium/Images/image3.png)
